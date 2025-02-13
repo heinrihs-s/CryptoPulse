@@ -15,8 +15,8 @@ CryptoPulse is an innovative tool that combines real-time cryptocurrency market 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cryptopulse.git
-cd cryptopulse
+git clone https://github.com/heinrihs-s/CryptoPulse.git
+cd CryptoPulse
 ```
 
 ### 2. Install Dependencies
