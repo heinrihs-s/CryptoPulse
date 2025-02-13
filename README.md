@@ -1,6 +1,6 @@
 # CryptoPulse: AI-Driven Market & On-Chain Analytics
 
-CryptoPulse is an innovative tool that combines real-time cryptocurrency market data with on-chain analytics and advanced AI-driven insights. By integrating data from CoinGecko and Glassnode, then processing it with powerful Python analytics and OpenAI's GPT-3.5 Turbo, CryptoPulse provides investors and enthusiasts with comprehensive market analysis, highlighting trends, correlations, and potential risks.
+CryptoPulse is an innovative tool that combines real-time cryptocurrency market data with on-chain analytics and advanced AI-driven insights. By integrating data from CoinGecko and Glassnode, then processing it with powerful Python analytics and OpenAI's LLM models, CryptoPulse provides investors and enthusiasts with comprehensive market analysis, highlighting trends, correlations, and potential risks.
 
 ## Features
 
