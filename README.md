@@ -81,6 +81,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 This project is provided for educational and informational purposes only. The AI-generated analysis is not financial advice. Always perform your own research before making any investment decisions.
 
----
 
-Happy analyzing!
